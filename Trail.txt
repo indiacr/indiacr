@@ -1,0 +1,4 @@
+my name is indika
+this is a test for check git 
+how it is working 
+I am going to add another few more lines later
